@@ -1,16 +1,13 @@
 ### Olá, eu sou a Ligia!
 
-- 🔭 Atualmente sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
-- 🌱 Estou estudando Javascript
-- 😄 Pronomes: ela/dela
-<!-- - ⚡ Fun fact: ... -->
+Estou em transição de carreira para área da tecnologia, atualmente sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Estou estudando Javascript e ao longo dos curso algumas das tecnologias que irei estudar são React, NodeJs, SQL, Python, MongoDB.
 
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/ligia-arcanjo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ligia-arcanjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-arcanjo&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ligia-arcanjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-arcanjo&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>

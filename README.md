@@ -1,6 +1,6 @@
 ### Olá, eu sou a Ligia!
 
-Estou em transição de carreira para área da tecnologia, atualmente sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Estou estudando Javascript e ao longo dos curso algumas das tecnologias que irei estudar são React, NodeJs, SQL, Python, MongoDB.
+Estou em transição de carreira para área da tecnologia, atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Estou aprendendo React e ao longo dos curso algumas das tecnologias que irei estudar são NodeJs, SQL, Python, MongoDB.
 
 ##
 
@@ -16,6 +16,7 @@ Estou em transição de carreira para área da tecnologia, atualmente sou estuda
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 </div>
 
 ##

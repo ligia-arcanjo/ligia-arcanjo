@@ -8,13 +8,13 @@ Estou em transição de carreira para área da tecnologia, atualmente estudo Des
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ligia-arcanjo&show_icons=true&locale=en&theme=dracula">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ramon-ferreira&show_icons=true&locale=en">
-    <img alt="github stats">
+    <img height="160em" alt="github stats">
   </picture>
 
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ligia-arcanjo&locale=en&theme=dracula">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ligia-arcanjo">
-    <img alt="most used languages">
+    <img height="160em" alt="most used languages">
   </picture>
 </div>
 

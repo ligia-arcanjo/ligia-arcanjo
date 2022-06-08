@@ -17,7 +17,7 @@ Estou em transição de carreira para área da tecnologia, atualmente estudo Des
   <div align="center">
     <a href="https://github.com/ligia-arcanjo#gh-dark-mode-only">
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ligia-arcanjo&show_icons=true&theme=react&border_color=61dafb&hide_border=true#gh-dark-mode-only" />
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-arcanjo&layout=compact#gh-dark-mode-only" />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-arcanjo&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true#gh-dark-mode-only" />
       <!-- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ligia-arcanjo&theme=react&border=61dafb&hide_border=true#gh-dark-mode-only" /> -->
     </a>
   </div>

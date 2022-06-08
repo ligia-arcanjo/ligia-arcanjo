@@ -5,11 +5,17 @@ Estou em transição de carreira para área da tecnologia, atualmente estudo Des
 ##
 
 <div align="center">
-  <a href="https://github.com/ligia-arcanjo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ligia-arcanjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true#gh-light-mode-only"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ligia-arcanjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-arcanjo&layout=compact&langs_count=7&theme=onedark#gh-light-mode-only"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-arcanjo&layout=compact&langs_count=7&theme=onedark#gh-dark-mode-only"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ligia-arcanjo&show_icons=true&locale=en&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ramon-ferreira&show_icons=true&locale=en">
+    <img alt="github stats">
+  </picture>
+
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ligia-arcanjo&locale=en&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ligia-arcanjo">
+    <img alt="most used languages">
+  </picture>
 </div>
 
 <div align="center" style="display: inline_block"><br>

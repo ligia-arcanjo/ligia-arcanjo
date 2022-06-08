@@ -6,8 +6,10 @@ Estou em transição de carreira para área da tecnologia, atualmente estudo Des
 
 <div align="center">
   <a href="https://github.com/ligia-arcanjo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ligia-arcanjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-arcanjo&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ligia-arcanjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true#gh-light-mode-only"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ligia-arcanjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-arcanjo&layout=compact&langs_count=7&theme=onedark#gh-light-mode-only"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-arcanjo&layout=compact&langs_count=7&theme=onedark#gh-dark-mode-only"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>

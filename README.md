@@ -1,19 +1,18 @@
 ### Olá, eu sou a Ligia!
 
-<div>
-  <div align="left">
-    <p>Estou em transição de carreira, atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</p>
-
+<table>
+  <th width="60%" border="none" align="left">
+    <p>
+    Estou em transição de carreira, atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
+  </p>
     👩‍💻 Estudando Node.js <br>
-    🎨 Meus hobbies são séries, livros e bordados <br>
-    💬 Vamos conversar? Me chama pra um café <br>
-
-  </div>
-
-  <div align="right">
-    <img width="300" src="octocat.png">
-  </div>
-</div>
+  🎨 Meus hobbies são séries, livros e bordados <br>
+  💬 Vamos conversar? Me chama pra um café <br>
+  </th>
+  <th width="40%" border="none">
+  <img align="right" width="80%"src="octocat.png">
+  </th>
+</table>
 
 ##
 
@@ -35,7 +34,7 @@
     </a>
   </div>
 
-#### Linguagens e ferramentas
+<h4 align="center"> Linguagens e ferramentas </h4>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">

@@ -1,18 +1,19 @@
-### Olá, eu sou a Ligia!
+### < Olá, eu sou a Ligia! 👋 >
 
-<table>
-  <th width="60%" border="none" align="left">
-    <p>
+<div>
+  <p align="left">
     Estou em transição de carreira, atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
   </p>
+
+  <p align="left">
     👩‍💻 Estudando Node.js <br>
-  🎨 Meus hobbies são séries, livros e bordados <br>
-  💬 Vamos conversar? Me chama pra um café <br>
-  </th>
-  <th width="40%" border="none">
-  <img align="right" width="80%"src="octocat.png">
-  </th>
-</table>
+    🎨 Meus hobbies são séries, livros e bordados <br>
+    💬 Vamos conversar? Me chama pra um café! <br>
+    <img align="right" src="octocat.png" height="400">
+  </p>
+  
+
+</div>
 
 ##
 

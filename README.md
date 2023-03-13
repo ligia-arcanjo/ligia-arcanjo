@@ -2,9 +2,9 @@
 
 <img align="right" src="octocat.png" height="300">
 
-💚 Capixaba, com sotaque mineiro, me aventurando em terras catarinenses! Sou desenvolvedora fullstack, finalizando curso web na @betrybe.
+💚 Capixaba, com sotaque mineiro, me aventurando em terras catarinenses! Sou desenvolvedora fullstack, hoje com maior foco em front-end.
   
-👩🏼‍💻 Desenvolvi projetos utilizando Javascript, Typescript, React, Node.js, Express, MySQL, testes automatizados e estou aprendendo Python.
+👩🏼‍💻 Desenvolvi projetos utilizando Javascript, Typescript, React, Node.js, Express, MySQL, testes automatizados, Python e Angular.
 
 #### Linguagens e ferramentas
 
@@ -16,10 +16,8 @@
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg"
 </div>
 
 ##
